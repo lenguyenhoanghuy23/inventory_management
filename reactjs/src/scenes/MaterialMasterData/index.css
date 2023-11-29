@@ -1,0 +1,56 @@
+/* .my-custom-modal {
+    top:50px;
+    left: 50px; 
+    right: 'auto'; 
+    bottom: 'auto'; 
+    position: absolute'
+} */
+
+.modal-left {
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    right: auto;
+    bottom: auto;
+    z-index: 15;
+}
+
+.modal-right {
+    position: fixed;
+    top: auto;
+    left: auto;
+    right: 50px;
+    bottom: 50px;
+    z-index: 10;
+}
+.modal-center {
+    border-radius: brown;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.Form-Item-label {
+    white-space: pre-wrap;
+    word-break: break-word;
+    
+}
+
+
+.btn-update {
+    border-color: brown;
+    position: fixed;
+    bottom: 352px;
+    right: 80px;
+    z-index: 15;
+}
+
+.size-input{
+    width: 300px;
+    border-radius: 10px;
+}
+
+
+

@@ -1,0 +1,27 @@
+/* .row{
+    margin: 30px 0px 0px 180px;
+   
+} */
+.row{
+    margin: 30px 0 0 0;
+   
+}
+
+
+
+
+.Input-Search  {
+    
+    margin: 16px 0 6px 0;
+}
+
+.input-size{
+    width: 400px;
+    border-radius: 10px;
+}
+
+.size-input{
+    width: 300px;
+    border-radius: 10px;
+}
+

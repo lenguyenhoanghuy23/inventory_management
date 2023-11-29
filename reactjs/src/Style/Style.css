@@ -1,0 +1,44 @@
+.sizeInput-border  {
+    width: 300px;
+    border-radius: 10px;
+     
+}
+
+.border-Form {
+    border-radius: 10px;
+   
+}
+.text{
+  
+    margin: 0 20px 0 20px;
+}
+.top{
+    padding-top: 30px;
+}
+.row{
+    margin-top: 30px;
+   
+}
+
+.btn-add {
+    position: fixed;
+    top: 54px;
+    right: 40px;
+    z-index: 10;
+}
+
+.btn-Upload-Export {
+    position: fixed;
+    right: 25px;
+    
+}
+
+ /* hover doi mau span  */
+.link-span {
+    color: #32a852;
+    cursor: pointer;
+  }
+  
+.link-span:hover {
+color: #ff0000;
+}
